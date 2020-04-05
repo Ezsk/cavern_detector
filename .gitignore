@@ -31,3 +31,4 @@ build/resources/main/plugin.yml
 .idea/gradle.xml
 .idea/jarRepositories.xml
 .idea/modules/cavern_detector.main.iml
+.idea/vcs.xml

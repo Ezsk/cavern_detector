@@ -1,0 +1,7 @@
+name: Cavern_detector
+version: @version@
+main: io.github.ezsk.cavern_detector.CavernDetector
+api-version: 1.13
+prefix: CavernDetector
+authors: [Ezsk]
+description: Left click a block with stick. if cavern is exit in the behind the clicked block, you can hear the small strange sounds.
